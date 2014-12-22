@@ -36,635 +36,115 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The mirror of alchimy, composed by the thrice-famous and learned fryer, Roger Bachon, sometimes fell
-#####Body#####
-
-1. CHAP. I. Of the Definitions of Alchimy.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. II.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. III. Out of what things the matter of Elixir must be more nearly extracted.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. IIII. of the maner of working, and of moderating, and continuing the fire.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. V. Of the qualitie of the Vessell and Furnace.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. VI. Of the accident all and essentiall colours appearing in the worke.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. VII. How to make proiection af the medicine vpon any imperfect booke.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. The praier of Hortulanus.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
 
 1. The Preface.
 
-    _ Of the naturall principles, and procreation of Minerals.
+#####Body#####
 
-    _ Of the nature of Golde.
+1. The Mirrour of Alchimy, composed by the famous Fryer, Roger Bachon, sometime fellow of Martin Colledge, and Brasennose Colledge in Oxenforde.
 
-    _ Of the nature of Siluer.
+    _ CHAP. I. Of the Definitions of Alchimy.
 
-    _ Of the nature of Steele.
+    _ CHAP. II.
 
-    _ Of the nature of Leade.
+      * Of the naturall principles, and procreation of Minerals.
 
-    _ Of the nature of Copper.
+      * Of the nature of Golde.
 
-    _ Of the nature of Iron.
+      * Of the nature of Siluer.
 
-1. CHAP. I. That the Art of Alchimy is true and certaine.
+      * Of the nature of Steele.
 
-    _ Of the naturall principles, and procreation of Minerals.
+      * Of the nature of Leade.
 
-    _ Of the nature of Golde.
+      * Of the nature of Copper.
 
-    _ Of the nature of Siluer.
+      * Of the nature of Iron.
 
-    _ Of the nature of Steele.
+    _ CHAP. III. Out of what things the matter of Elixir must be more nearly extracted.
 
-    _ Of the nature of Leade.
+    _ CHAP. IIII. of the maner of working, and of moderating, and continuing the fire.
 
-    _ Of the nature of Copper.
+    _ CHAP. V. Of the qualitie of the Vessell and Furnace.
 
-    _ Of the nature of Iron.
+    _ CHAP. VI. Of the accident all and essentiall colours appearing in the worke.
 
-1. CHAP. II. That the Stone must be diuided into two parts.
+    _ CHAP. VII. How to make proiection af the medicine vpon any imperfect booke.
 
-    _ Of the naturall principles, and procreation of Minerals.
+1. The Smaragdine Table of Hermes, Trismegistus of Alchimy.
 
-    _ Of the nature of Golde.
+1. A briefe Commentarie of Hortulanus the Philosopher, vpon the Smaragdine Table of Hermes of Alchimy.
 
-    _ Of the nature of Siluer.
+    _ The praier of Hortulanus.
 
-    _ Of the nature of Steele.
+    _ The Preface.
 
-    _ Of the nature of Leade.
+    _ CHAP. I. That the Art of Alchimy is true and certaine.
 
-    _ Of the nature of Copper.
+    _ CHAP. II. That the Stone must be diuided into two parts.
 
-    _ Of the nature of Iron.
+    _ CHAP. III. That the Stone hath in it the foure Elements.
 
-1. CHAP. III. That the Stone hath in it the foure Elements.
+    _ CHAP. IIII. That the Stone hath Father and Mother, to wit, the Sunue and Moone.
 
-    _ Of the naturall principles, and procreation of Minerals.
+    _ CHAP. V. That the coniunction of the parts of the stone is called Conception.
 
-    _ Of the nature of Golde.
+    _ CHAP. VI. That the Stone is perfect, if the Soule be sixt in the bodie.
 
-    _ Of the nature of Siluer.
+    _ CHAP. VII. Of the mundification and cleansing of the stone.
 
-    _ Of the nature of Steele.
+    _ CHAP. VIII. That the vnfixed part of the Stone should exceed the fixed, and list it up.
 
-    _ Of the nature of Leade.
+    _ CHAP. IX. How the volatile Stone may againe be fixed.
 
-    _ Of the nature of Copper.
+    _ CHAP X. Of the fruit of the Art, and efficacie of the Stone.
 
-    _ Of the nature of Iron.
+    _ CHAP. XI. That this worke imitateth the Creation of the worlde.
 
-1. CHAP. IIII. That the Stone hath Father and Mother, to wit, the Sunue and Moone.
+    _ CHAP. XII. An enigmaticall insinuation what the matter of the Stone shoulde be.
 
-    _ Of the naturall principles, and procreation of Minerals.
+    _ CHAP. XIII. VVhy the Stone is said to be perfect.
 
-    _ Of the nature of Golde.
+1. The Booke of the Secrets of Alchimie, composed by Galid the sonne of Iazich, translated out of Hebrew into Arabick, and out of Arabick into Latine, and out of Latin into English.
 
-    _ Of the nature of Siluer.
+    _ The Preface of the difficultie of the Art.
 
-    _ Of the nature of Steele.
+    _ CHAP I. Of the foure Masteries, or principall works of the Art, to wit, solution, congelation, albification, and rubification.
 
-    _ Of the nature of Leade.
+    _ CHAP. II. Of the things and instruments necessarie and fit for this worke.
 
-    _ Of the nature of Copper.
+    _ CHAP. III. Of the nature of things appertaining to this worke.
 
-    _ Of the nature of Iron.
+    _ CHAP. IIII. Of Decoction, and the effect thereof.
 
-1. CHAP. V. That the coniunction of the parts of the stone is called Conception.
+    _ CHAP. V. Of Subtiliation, Solution, Coagulation, and commistion of the Stone, and of their cause and end.
 
-    _ Of the naturall principles, and procreation of Minerals.
+    _ CHAP. VI. The manner how to fixe the Spirit.
 
-    _ Of the nature of Golde.
+    _ CHAP. VII. Of the Decoction, Contrition, and washing of the stone.
 
-    _ Of the nature of Siluer.
+    _ CHAP. VIII. Of the quantitie of the Fire, and of the commoditie and discommoditie of it.
 
-    _ Of the nature of Steele.
+    _ CHAP IX. Of the Separation of the Elements of the Stone.
 
-    _ Of the nature of Leade.
+    _ CHAP. X. Of the nature of the Stone, and his birth.
 
-    _ Of the nature of Copper.
+    _ CHAP. XI. Of the commistion of the Elements that were seperated.
 
-    _ Of the nature of Iron.
+    _ CHAP. XII. Of the solution of the Stone compounded.
 
-1. CHAP. VI. That the Stone is perfect, if the Soule be sixt in the bodie.
+    _ CHAP. XIII, Of the coagulation of the Stone dissolued.
 
-    _ Of the naturall principles, and procreation of Minerals.
+    _ CHAP XIIII. That there is but one Stone, and of his nature.
 
-    _ Of the nature of Golde.
+    _ CHAP. XV. The maner how to make the Stone white.
 
-    _ Of the nature of Siluer.
+    _ CHAP. XVI. The conuersion of the foresaid Stone into red.
 
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. VII. Of the mundification and cleansing of the stone.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. VIII. That the vnfixed part of the Stone should exceed the fixed, and list it up.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. IX. How the volatile Stone may againe be fixed.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP X. Of the fruit of the Art, and efficacie of the Stone.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. XI. That this worke imitateth the Creation of the worlde.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. XII. An enigmaticall insinuation what the matter of the Stone shoulde be.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. XIII. VVhy the Stone is said to be perfect.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. The Preface of the difficultie of the Art.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP I. Of the foure Masteries, or principall works of the Art, to wit, solution, congelation, albification, and rubification.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. II. Of the things and instruments necessarie and fit for this worke.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. III. Of the nature of things appertaining to this worke.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. IIII. Of Decoction, and the effect thereof.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. V. Of Subtiliation, Solution, Coagulation, and commistion of the Stone, and of their cause and end.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. VI. The manner how to fixe the Spirit.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. VII. Of the Decoction, Contrition, and washing of the stone.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. VIII. Of the quantitie of the Fire, and of the commoditie and discommoditie of it.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP IX. Of the Separation of the Elements of the Stone.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. X. Of the nature of the Stone, and his birth.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. XI. Of the commistion of the Elements that were seperated.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. XII. Of the solution of the Stone compounded.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. XIII, Of the coagulation of the Stone dissolued.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP XIIII. That there is but one Stone, and of his nature.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. XV. The maner how to make the Stone white.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
-
-1. CHAP. XVI. The conuersion of the foresaid Stone into red.
-
-    _ Of the naturall principles, and procreation of Minerals.
-
-    _ Of the nature of Golde.
-
-    _ Of the nature of Siluer.
-
-    _ Of the nature of Steele.
-
-    _ Of the nature of Leade.
-
-    _ Of the nature of Copper.
-
-    _ Of the nature of Iron.
+1. An excellent discourse of the admirable force and efficacie of Art and Nature, written by the famous Frier Roger Bacon, Sometime fellow of Merton Colledge, and afterward of Brasen-nose in Oxford.
 
 #####Back#####
-The mirror of alchimy, composed by the thrice-famous and learned fryer, Roger Bachon, sometimes fell
+Printed at London by Thomas Creede. for Richard Oliue. 1597.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
